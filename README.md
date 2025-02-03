@@ -1,2 +1,4 @@
 # SE
-Software Engineering
+
+CS-325 Software Engineering
+Repository owned by Ethan Hoeman
