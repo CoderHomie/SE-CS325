@@ -10,4 +10,4 @@ The Assignments section is for efficiently storing and submitting completed assi
 ### My Dog Copper
 
 This is my dog Copper. She is very dramatic when she wants you to play with her.
-![Copper Under the Table]("C:\Users\ehoem\OneDrive\Pictures\Camera Roll\20201110_1733111.jpg")
+![Copper Under the Table](C:\Users\ehoem\OneDrive\Pictures\Camera Roll\20201110_1733111.jpg)
